@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(./imagenes/muro.jpg) no-repeat center top;
+    font-family: sans-serif;
+    background-size: cover;
+
+}
+
+*{
+    margin: 200;
+    padding: 200;
+    box-sizing: border-box;
+}
+
+.form-registrar {
+    width: 400px;
+    background: #8dce00;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Arial';
+    color:white;
+    position:center;
+}
+
+.form-registrar h2{
+   font-size:22px;
+   margin-bottom: 20px;
+   COLOR: rgb(0, 0, 0);
+}
+
+
+
